@@ -21,3 +21,7 @@ body {
 .Toastify__toast-theme--dark {
   background-color: #00000076 !important;
 }
+.gif{
+  max-width: 100%;
+  height: auto;
+}
